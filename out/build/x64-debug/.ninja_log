@@ -1,0 +1,5 @@
+# ninja log v5
+3	726	7693825508195576	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	35f75c1afe476102
+814	978	7694680494405221	CMakeProject1.exe	263add4f723bd6c
+2	120	7694724595734059	build.ninja	7f203594ebd0909d
+2	813	7694680493155123	CMakeFiles/CMakeProject1.dir/GameOfLife.cpp.obj	c9dee0c7546e9045
