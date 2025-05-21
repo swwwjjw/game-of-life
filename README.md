@@ -6,4 +6,3 @@ To launch the game:
 <br />"-w" stands for setting width (default - 50);<br />
 <br />"-h" stands for setting height (default - 50);<br />
 <br />"-d" stands for settind delay (default - 100);<br />﻿# game-of-life
- My first small pet-project.
