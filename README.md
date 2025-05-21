@@ -1,4 +1,3 @@
-# game-of-life
 To launch the game:
  1. Download .zip, open it;
  2. Open terminal and type: cd path_to_folder_with_project/CMakeProject1
